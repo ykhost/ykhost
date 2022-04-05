@@ -1,6 +1,5 @@
-<h2 align="center"> About me: </h2>
+# André Heringer:
 
-- I'm André Heringer
 - dev front end 
 - JavaScript | NodeJS | React
 - I'm graduated in Computer Science
