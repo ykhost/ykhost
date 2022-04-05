@@ -1,4 +1,4 @@
-# André Heringer:
+# André Heringer
 
 - dev front end 
 - JavaScript | NodeJS | React
