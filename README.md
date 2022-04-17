@@ -1,6 +1,6 @@
 # André Heringer
 
-- dev front end 
+- Dev front end 
 - JavaScript | NodeJS | React
 - I'm graduated in Computer Science
 
