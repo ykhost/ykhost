@@ -6,7 +6,7 @@
 
 
 
-<p><b>     "Não se esqueça de fazer o seu melhor para permanecer vivo."<br>
+<p><b>     "Don't forget to do your best to stay alive."<br>
                   - Levi Ackerman</b></p>
 </div>
 <div>
