@@ -1,8 +1,9 @@
 # André Heringer
 
-- Dev Full Stack
-- JavaScript | NodeJS | React | Java | Python
-- I'm graduated in Computer Science
+- Data Engineer
+- ETL | Pipepeline | Python | e outras brincadeiras.
+- Sou graduação em ciencia da computação.
+- Pos gradução em Engenharia de dados em andamento.
 
 
 
