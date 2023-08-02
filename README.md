@@ -2,9 +2,6 @@
 
 - Data Engineer
 - ETL | Pipepeline | Python | e outras brincadeiras.
-- Sou graduação em ciencia da computação.
-- Pos gradução em Engenharia de dados em andamento.
-
 
 
 <p><b>     "Don't forget to do your best to stay alive."<br>
